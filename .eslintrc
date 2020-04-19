@@ -1,0 +1,12 @@
+{
+    "env": {
+        "browser": false
+    },
+    "extends": [
+        "plugin:prettier/recommended"
+    ],
+    "plugins": [
+        "prettier"
+    ],
+    "parser": "babel-eslint"
+}
